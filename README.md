@@ -1,17 +1,16 @@
-# trade_app
+# Trade App
 
 A new Flutter project.
 ## 📱 Screenshots  
 
 ### Home Screen  
-![Home Screen](screenshots/1.jpeg)
-![Home Screen](screenshots/2.jpeg)
-![Home Screen](screenshots/3.jpeg)
+<img src="screenshots/1.jpeg" alt="Home Screen" width="250"/>
+<img src="screenshots/2.jpeg" alt="Home Screen" width="250"/>
+<img src="screenshots/3.jpeg" alt="Home Screen" width="250"/>
 
 ### Details Screen  
-![Details Screen](screenshots/5.jpeg)
-![Details Screen](screenshots/6.jpeg)
-
+<img src="screenshots/5.jpeg" alt="Details Screen" width="250"/>
+<img src="screenshots/6.jpeg" alt="Details Screen" width="250"/>
 ## Getting Started
 
 This project is a starting point for a Flutter application.
