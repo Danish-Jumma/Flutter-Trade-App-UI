@@ -4,13 +4,17 @@ A new Flutter project.
 ## 📱 Screenshots  
 
 ### Home Screen  
-<img src="screenshots/1.jpeg" alt="Home Screen" width="250"/>
-<img src="screenshots/2.jpeg" alt="Home Screen" width="250"/>
-<img src="screenshots/3.jpeg" alt="Home Screen" width="250"/>
+<p float="left">
+  <img src="screenshots/1.jpeg" alt="Home Screen 1" width="250"/>
+  <img src="screenshots/2.jpeg" alt="Home Screen 2" width="250"/>
+  <img src="screenshots/3.jpeg" alt="Home Screen 3" width="250"/>
+</p>
 
 ### Details Screen  
-<img src="screenshots/5.jpeg" alt="Details Screen" width="250"/>
-<img src="screenshots/6.jpeg" alt="Details Screen" width="250"/>
+<p float="left">
+  <img src="screenshots/5.jpeg" alt="Details Screen 1" width="250"/>
+  <img src="screenshots/6.jpeg" alt="Details Screen 2" width="250"/>
+</p>
 ## Getting Started
 
 This project is a starting point for a Flutter application.
