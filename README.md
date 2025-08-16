@@ -1,6 +1,13 @@
 # trade_app
 
 A new Flutter project.
+## 📱 Screenshots  
+
+### Home Screen  
+![Home Screen](screenshots/home.png)
+
+### Details Screen  
+![Details Screen](screenshots/details.png)
 
 ## Getting Started
 
