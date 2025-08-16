@@ -4,10 +4,13 @@ A new Flutter project.
 ## 📱 Screenshots  
 
 ### Home Screen  
-![Home Screen](screenshots/home.png)
+![Home Screen](screenshots/1.jpeg)
+![Home Screen](screenshots/2.jpeg)
+![Home Screen](screenshots/3.jpeg)
 
 ### Details Screen  
-![Details Screen](screenshots/details.png)
+![Details Screen](screenshots/5.jpeg)
+![Details Screen](screenshots/6.jpeg)
 
 ## Getting Started
 
