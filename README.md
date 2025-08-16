@@ -17,6 +17,7 @@ A modern Flutter project with a clean UI for showcasing property listings (House
 <p float="left">
   <img src="screenshots/5.jpeg" alt="Details Screen 1" width="220"/>
   <img src="screenshots/6.jpeg" alt="Details Screen 2" width="220"/>
+  <img src="screenshots/7.jpeg" alt="Details Screen 2" width="220"/>
 </p>
 
 ---
